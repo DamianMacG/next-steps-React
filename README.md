@@ -1,8 +1,10 @@
-# React + Vite
+# Next Steps - React Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![next-steps-1](https://github.com/DamianMacG/next-steps-React/assets/125369670/d29d1dc9-436c-4af8-8339-292eb98943ae)
 
-Currently, two official plugins are available:
+![next-steps-2](https://github.com/DamianMacG/next-steps-React/assets/125369670/b54e77a1-f4c7-4d19-91b0-82f41fdea537)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![next-steps-3](https://github.com/DamianMacG/next-steps-React/assets/125369670/48c5284c-ec6a-412a-bb2f-59a74718c64b)
+
+
+
